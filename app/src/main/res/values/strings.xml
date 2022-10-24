@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PruebaRappi</string>
+
+    <string name="app_error">Error</string>
+    <string name="error_internet_connection">Please check your internet connection.</string>
+    <string name="error_something_went_wrong">Something went wrong.</string>
+    <string name="error_data_is_null">Data is null</string>
+    <string name="upcoming_releases">Próximos estrenos</string>
+    <string name="trend">Tendencia</string>
+    <string name="recommended_for_you">Recomendados para ti</string>
+    <string name="show_trailer">Ver trailer</string>
+
+</resources>
