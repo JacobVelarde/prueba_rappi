@@ -1,6 +1,6 @@
 ¿En qué consiste el principio de responsabilidad única? ¿Cuál es su propósito?
 
-El principio de responsabilidad única consiste en que una clase o función solo se encargue de ejecutar un solo proceso y su propósito es hacer un código mantenible, testeable, legible y escaladle
+El principio de responsabilidad única consiste en que una clase o función solo se encargue de ejecutar un solo proceso y su propósito es hacer un código mantenible, testeable, legible y escalable
 
 Ejemplo:
 
